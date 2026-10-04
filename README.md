@@ -31,6 +31,14 @@ The Global API affiliate program offers competitive commissions for developers a
 
 Learn more at [https://global-apis.com/affiliate](https://global-apis.com/affiliate)
 
+## Video Creation
+
+### VideoGen
+
+[VideoGen affiliate program](https://videogen.io/affiliate-program) pays **30% recurring commission on referred subscriptions**, with a cookie window of up to **60 days** and last-click attribution. Payouts are monthly with a **$50 minimum**, and commissions become payable at least 30 days after purchase. Applications are reviewed manually. Tracking is provided by FirstPromoter.
+
+These terms concern subscription referrals; API usage commissions and a lifetime recurring duration are not specified. See the [official affiliate terms](https://videogen.io/affiliate-tos) for eligibility and promotion restrictions.
+
 ## Contributing
 
 We welcome contributions that add value to developers and content creators interested in AI API affiliate programs. Please submit pull requests with clear descriptions of your additions.
